@@ -1,0 +1,1 @@
+mvn deploy:deploy-file -DgroupId=com.liuqi -DartifactId=bnc-burstkit4j -Dversion=v0.0.6 -Dfile=./target/bnc-burstkit4j-0.0.1-SNAPSHOT.jar -DrepositoryId=snapshots -Durl=http://47.111.238.195:8081/repository/liuqi/
